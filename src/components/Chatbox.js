@@ -43,7 +43,7 @@ const Chatbox = () => {
         },
         {
           headers: {
-            Authorization: `Bearer sk-None-qwd8jSRlMEwsLcOSd6lfT3BlbkFJRjyWorvzwHallGOOJfPg`,
+            Authorization: `Bearer API TOKEN`,
             'Content-Type': 'application/json',
           }
         }
