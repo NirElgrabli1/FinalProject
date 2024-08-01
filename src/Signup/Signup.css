@@ -1,0 +1,14 @@
+
+  
+  .LogoToHomepage1 {
+    /*color: rgba(255, 255, 255, 0.988);*/
+    color: #0f0a0a;
+    justify-self: start;
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 150%;
+
+  }
